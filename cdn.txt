@@ -1,0 +1,5 @@
+To connect your HTML File paste this code inside `<body>` tag
+
+<script src="https://cdn.jsdelivr.net/gh/KairoDev/KairoJS/JS/kairo.min.js"></script>
+
+It is the CDN to the JS
